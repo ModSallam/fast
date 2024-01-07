@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068171133951",
+    "project_id": "fast-76544",
+    "storage_bucket": "fast-76544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068171133951:android:309730ee90f724d9551dca",
+        "android_client_info": {
+          "package_name": "com.sallam.fast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-w0_NoyOPC7HeFZ75TrdPQ4EOz65Tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
